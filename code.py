@@ -8,7 +8,7 @@ import time
 import board
 from adafruit_pyportal import PyPortal
 
-cwd = ("/"+__file__).rsplit('/', 1)[0] # the current working directory (where this file is)
+cwd = ("/"+__file__).rsplit('/', 1)[0] # the current working directory (where this file is) small edit
 
 DAY = ["Day of the year"]
 PERSON = ["Person"]
