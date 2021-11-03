@@ -1,28 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "../../../Documents/PlatformIO/Projects"
-		},
-		{
 			"path": "../../../../../Volumes/CIRCUITPY"
-		},
-		{
-			"path": "."
 		}
 	],
 	"settings": {
 		"circuitpython.board.vid": "0x239A",
-		"circuitpython.board.pid": "0x8036",
+		"circuitpython.board.pid": "0x80E6",
 		"python.autoComplete.extraPaths": [
 			"/Users/axelmansson/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.5/boards/0x239A/0x8036",
 			"/Users/axelmansson/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.5/stubs",
 			"/Users/axelmansson/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20201222/adafruit-circuitpython-bundle-py-20210109/lib"
 		],
-		"circuitpython.board.version": "6.1.0",
+		"circuitpython.board.version": "7.0.0",
 		"python.analysis.extraPaths": [
-			"/Users/axelmansson/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.15/boards/0x239A/0x8036",
+			"/Users/axelmansson/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.15/boards/0x239A/0x80E6",
 			"/Users/axelmansson/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.15/stubs",
-			"/Users/axelmansson/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20211006/adafruit-circuitpython-bundle-py-20211006/lib"
+			"/Users/axelmansson/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20211103/adafruit-circuitpython-bundle-py-20211103/lib"
 		],
 		"python.languageServer": "Pylance",
 		"python.linting.pylintEnabled": false,
